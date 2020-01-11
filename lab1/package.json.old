@@ -1,0 +1,13 @@
+{
+  "dependencies": {},
+  "name": "aws-course-unit1",
+  "description": "Trying to make it work local",
+  "version": "1.0.1",
+  "main": "create_table.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergi",
+  "license": "ISC"
+}
